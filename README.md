@@ -24,3 +24,4 @@ IQQ Core: https://github.com/im-qq/webqq-core.git
 ![image](https://raw.githubusercontent.com/im-qq/iqq/master/resources/screenshots/main.png)
 ![image](https://raw.githubusercontent.com/im-qq/iqq/master/resources/screenshots/main-skin2.png)
 ![image](https://raw.githubusercontent.com/im-qq/iqq/master/resources/screenshots/main-skin.png)
+.
